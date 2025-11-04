@@ -17,3 +17,8 @@ Project Methodology:
 The project followed a rigorous pipeline, beginning with gathering a comprehensive dataset from sources like Drugs.com and Kaggle, ensuring the data included crucial fields like Review Text, Drug Name, Condition, and User Ratings. The final, fully functional system is deployed using the Flask framework, making the recommendation engine operational and accessible.
 
 This project showcases expertise in moving beyond simple data fitting to build an ethical, user-focused application at the intersection of machine learning and healthcare data.
+
+Installation Steps :-
+Install Python 3.7
+Install all dependencies cmd -python -m pip install --user -r requirements.txt
+Finally run cmd - python app.py
